@@ -1,2 +1,2 @@
-# ssdn_citrus_configs
+# ssdn_manatus_configs
 Config files for SSDN harvests
